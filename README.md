@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias Peterka</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A backend web developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxtyxz&label=Profile%20views&color=0e75b6&style=flat" alt="mxtyxz" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJs and PostgreSQL**
+- 🌱 I’m currently learning **Java, Spring, JPA**
 
 - 📫 How to reach me **matias.tauro@hotmail.com**
 
